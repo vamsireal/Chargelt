@@ -100,3 +100,10 @@ Chargelt simulates a real EV charging companion app. Users can sign up or log in
 * MVVM architecture refactor
 * Dark Mode and Accessibility support
 
+---
+
+## **DEMO**
+
+![Simulator Screen Recording - iPhone 17 Pro - 2026-01-16 at 22 33 34](https://github.com/user-attachments/assets/1acfc879-2611-40e6-9c5c-520ef086fbeb)
+
+
